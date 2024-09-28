@@ -9,6 +9,3 @@ This Python script is a simple **Secret Auction** program where multiple users c
 3. Input your name and bid amount.
 4. Indicate if there are more bidders after each bid.
 5. Once all bids are in, the highest bidder will be announced.
-
-## Example
-
